@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: Amelia Griffiths, Cordie Towers, User3 and User4"
+author: "Team Name: Amelia Griffiths, Cordie Towers, Pari Lakhankar, Tosin Ademola and User4"
 date: "`r Sys.Date()`"
 output: html_document
 ---
